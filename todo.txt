@@ -1,0 +1,2 @@
+-implement auth
+-using jwt tokens from backend template, can i use next js app?
